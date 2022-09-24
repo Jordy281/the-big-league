@@ -1,0 +1,17 @@
+[
+    {
+        "Service_Name":"Sleeper",
+        "id": 1,
+        "logo":"gafd89g42343jtk1b4hvwasd",
+        "endpoint_url":"https://sleeper.com/api/",
+        "site_url":"https://sleeper.com/"
+    },
+    {
+        "Service_Name":"Yahoo",
+        "id": 1,
+        "logo":"gafd89g42343jtk1b4hvwasd",
+        "endpoint_url":"https://yahoo.com/api/",
+        "site_url":"https://yahoo.com/"
+    }
+    
+]

@@ -1,0 +1,52 @@
+[
+    {
+        // Over Arching League Name
+        "TheBigLeague_Name": "B3FL",
+        "id": 1,
+        // This is the USER ID of the user that is the commissioner of the league 
+        "Commissioner_id": "",
+        // This will point to a a cdn with url "https://cdn.com/{League_Logo}
+        "League_Logo": "1234fhfhgbcvxb562344ggn",
+        
+        "Sub_Leagues":[
+            {
+                // This league ID comes right from the hosting service
+                "league_id": 125146135412,
+                "league_name": "The Champ League",
+                "hosting_service": "Yahoo",
+                "link": "https://yahoo.fantasy.football.com/leagues/125146135412"
+            },
+            {
+                "league_id": 2125141341574567,
+                "league_name": "The Farm League",
+                "hosting_service": "Sleeper",
+                "link": "https://yahoo.fantasy.football.com/leagues/125146135412"
+            }
+        ]
+    },
+    {
+        // Over Arching League Name
+        "TheBigLeague_Name": "TeatLeague",
+        "id": 2,
+        // This is the USER ID of the user that is the commissioner of the league 
+        "Commissioner_id": "",
+        // This will point to a a cdn with url "https://cdn.com/{League_Logo}
+        "League_Logo": "1234fhfhgbcvxb562344ggn",
+        
+        "Sub_Leagues":[
+            {
+                // This league ID comes right from the hosting service
+                "league_id": 125146135412,
+                "league_name": "The Champ League",
+                "hosting_service": "Yahoo",
+                "link": "https://yahoo.fantasy.football.com/leagues/125146135412"
+            },
+            {
+                "league_id": 2125141341574567,
+                "league_name": "The Farm League",
+                "hosting_service": "Sleeper",
+                "link": "https://yahoo.fantasy.football.com/leagues/125146135412"
+            }
+        ]
+    }
+]

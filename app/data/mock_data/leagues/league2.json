@@ -1,0 +1,20 @@
+{
+    "TheBigLeague_Name": "DemoLeague",
+    "id": 2,
+    "Commissioner_id": 1,
+    "League_Logo": "1234fhfhgbcvxb562344ggn",
+    "Sub_Leagues":[
+        {
+            "league_id": 125146135412,
+            "league_name": "The Preimier League",
+            "hosting_service": "Sleeper",
+            "link": "https://sleeper.com/leagues/125146135412"
+        },
+        {
+            "league_id": 2125141341574567,
+            "league_name": "The Champions League",
+            "hosting_service": "Sleeper",
+            "link": "https://yahoo.fantasy.football.com/leagues/125146135412"
+        }
+    ]
+}

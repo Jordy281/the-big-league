@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "/",
+    "paths": {
+      "@components/*": ["components/*"],
+      "@styles/*": ["styles/*"],
+      "@lib/*": ["lib/*"],
+      "@data/*": ["data/*"],
+      "@mockdata/*": ["data/mock_data/*"],
+      "@firebase/*": ["firebase/*"],
+      "@utils/*": ["utils/*"]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+// This is the top most level of the data hierarchy. 
+// This maps owners to leagues. 
+// This will allow users to choose which league to operate the app out of (in case there are multiple apps)
+
+[
+    {
+        "user_id": 1,
+        "full_name": "John Doe",
+        "display_name": "John",
+        "emails":[],
+        "teams": [
+            {
+                // This is the League Profile ID
+                "theBigLeague_id": 1234151,
+                // This is the league ID from the given host
+                "league_id":1,
+                // This is the platform the league runs on
+                "host": "sleeper",
+                "owner_id": 1,
+                "team_name": "Weiner 1",
+                "role": "owner"
+            },
+            {
+                "league_id":2,
+                "owner_id": 1,
+                "team_name": "Weiner 2",
+                "role": "commisioner"
+            }
+            
+        ]
+    },
+    {
+        "user_id": 2,
+        "display_name": "Frank",
+        "teams": [
+            {
+                "league_id":1,
+                "owner_id": 2,
+                "team_name": "butts 1",
+                "role": "commissioner"
+            },
+            {
+                "league_id":2,
+                "owner_id": 2,
+                "team_name": "butts 2",
+                "role":"owner"
+            }
+            
+        ]
+    }
+]

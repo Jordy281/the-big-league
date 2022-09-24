@@ -1,0 +1,42 @@
+[
+    {
+        //This comes from the top level league
+        "BigLeague_ID": "1234124asdfasdf",
+        // We get this from rosters endpoint
+        "roster_id": "5",
+        // We Get This right from Sleeper API Users Endpoint
+        "owner_id": "720638189125632",
+        "settings": null,
+        "metadata": {
+            "mention_pn": "on",
+            "allow_pn": "off"
+        },
+        "league_id": "289646328504385536",
+        "is_owner": true,
+        "is_bot": null,
+        "display_name": "tobrepeels",
+        "avatar": "9402d1b023f90e63d0c866c104869809"
+    },
+    {
+        // Sleepr API's User ID maps to 
+        "user_id": "3975968863961088",
+        "settings": null,
+        "metadata": {
+            "user_message_pn": "on",
+            "transaction_waiver": "on",
+            "transaction_trade": "on",
+            "transaction_free_agent": "on",
+            "transaction_commissioner": "on",
+            "team_name_update": "on",
+            "player_nickname_update": "on",
+            "mention_pn": "on",
+            "allow_pn": "off"
+        },
+        "league_id": "289646328504385536",
+        "is_owner": false,
+        "is_bot": null,
+        "display_name": "TOBOT",
+        "avatar": "1799db086bc5e636807a0ffe808dde3b"
+    },
+
+]

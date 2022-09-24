@@ -1,0 +1,12 @@
+{
+    "week": 2, // week
+    "season_type": "regular", // pre, post, regular
+    "season_start_date": "2020-09-10", // regular season start
+    "season": "2020", // current season
+    "previous_season": "2019",
+    "leg": 2, // week of regular season
+    "league_season": "2021", // active season for leagues
+    "league_create_season": "2021", // flips in December
+    "display_week": 3 // Which week to display in UI, can be different than week
+  }
+  

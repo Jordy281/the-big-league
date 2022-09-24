@@ -1,0 +1,25 @@
+{
+    "user_id": 1,
+    "display_name": "Jordan Rocks",
+    "date_created": "2022-01-01",
+    "email": "Jordan.Stirling20@gmail.com",
+    "leagues": [
+        {
+            "the_big_league_id": 1,
+            "league_id":1,
+            "owner_id": 1,
+            "team_name": "Weiner 1",
+            "avatar": "1f2erfgh9g5g3i63n218",
+            "role": "owner"
+        },
+        {
+            "the_big_league_id": 2,
+            "league_id":2,
+            "owner_id": 1,
+            "team_name": "Weiner 2",
+            "avatar": "1f2erfgh9g5g3i63n218",
+            "role": "commisioner"
+        }
+        
+    ]
+}
